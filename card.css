@@ -1,0 +1,26 @@
+.main{
+    width: 300px;
+    height: 500px;
+    border: solid black;
+    border-radius: 30px;
+    
+}
+.main img {
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 50px;
+}
+.company {background-color:crimson;
+height: 100px;
+border-radius: 30px;
+padding-top: 10px;
+width: 300px;
+}
+
+.bus2{
+    height: 10px;
+    width: 30%;
+    background-color: black;
+
+}
